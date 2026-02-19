@@ -1,0 +1,50 @@
+Week 1 and week 2 
+Code for Main project-finish
+
+Week 3
+README, Requirement document
+
+Week 4 and Week 5 
+2500 words Report
+
+Week 6
+Presentation Recording
+
+
+Histograms with percentages - by Crime Types - West Midlands and Staffordshire with Filter on using Panel Lib
+Trend of Crimes over time 
+Seasonality
+
+
+Normalise/weighted Crimes/police force by per thousand - compare with Staffordshire
+Normalise/weighted Crimes/LSOA by per thousand - compare with Staffordshire
+
+
+Crime Type vs Outcome
+which Police have higher rate of Crimes that have no outcome
+which type of Crime have higher rate of Crimes that have no outcome
+
+
+Does deprivation have an impact on Crime Rate
+
+
+
+So topics are
+what does WMP's data say, how to use these data to plan their workforce allocation, from the trend of crime over time and seasonality
+how does WMP's performance vs peer in the same Area (similar Geo and policy), by using weighted data
+unresolved Crimes high in this category, too small to use limited resolves?
+get away with punishment is the likely case? cost of commit this crime is very high or low
+
+if improving education will lead to improvement in security, use confidence % correlation rate between deprivation and weighted LSOA Crime Rate
+other factors to consider GOOGLE.
+Workforce, inexperience workforce, new complexity in Crime in new era.
+
+Demand on the police is becoming increasingly complex and key skills shortages leave forces struggling to keep up https://www.instituteforgovernment.org.uk › publication
+
+
+summarise itself, pros and cons
+compare with others, pros and cons
+address pros
+make recommendation on Cons
+
+
